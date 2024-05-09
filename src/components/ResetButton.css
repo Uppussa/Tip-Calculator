@@ -1,0 +1,7 @@
+.result-wrapper button {
+    background-color: var(--primary);
+    color: var(--dark-primary);
+    text-align: center;
+    padding: 7px;
+  }
+  
